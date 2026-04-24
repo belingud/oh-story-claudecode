@@ -215,6 +215,9 @@ description: |
 
 | 文件 | 何时加载 |
 |------|----------|
+| [references/genre-opening-database.md](references/genre-opening-database.md) | **核心参考**：8大题材开头模板+真实范例+决策树 |
+| [references/chapter-hooks-database.md](references/chapter-hooks-database.md) | **核心参考**：10种章节结尾钩子模式+真实范例+使用指南 |
+| [references/dialogue-patterns-database.md](references/dialogue-patterns-database.md) | **核心参考**：真实网文对话节奏/语气/标签/情绪写法 |
 | [references/eight-node-structure.md](references/eight-node-structure.md) | 设计大纲、搭建卷级结构时 |
 | [references/character-design.md](references/character-design.md) | 设定主角、配角、反派层级时 |
 | [references/anti-ai-writing.md](references/anti-ai-writing.md) | 精修正文、去除 AI 痕迹时 |

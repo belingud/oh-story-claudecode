@@ -200,6 +200,11 @@ description: |
 | 套娃反转式 | 多层反转嵌套 | 惊讶、烧脑 |
 | 对话驱动式 | 通过对话推进叙事 | 虐恋、人际冲突 |
 | 独白式 | 第一人称内心独白 | 治愈、自省 |
+| 重生反常式 | 重生后做相反的事→对手自乱 | 爽、解气 |
+| 灵魂旁观式 | 死后灵魂看世界→揭露真相 | 意难平、愤怒 |
+| 双重生博弈式 | 两人都重生→信息战 | 紧张、痛快 |
+| 隐忍布局式 | 表面顺从暗中布局→反攻 | 压抑→极致释放 |
+| 非人视角式 | 鬼/系统/灵魂看人间 | 新奇、恐怖、爽 |
 
 ---
 
@@ -223,6 +228,10 @@ description: |
 | [references/zhihu-style.md](references/zhihu-style.md) | 分析知乎盐言故事时 |
 | [references/hook-types.md](references/hook-types.md) | 分析钩子设计和章尾悬念时 |
 | [references/deconstruction-examples.md](references/deconstruction-examples.md) | 学习拆文方法时（3 个完整案例） |
+
+> **深度数据参考**：`../story-short-write/references/platform-writing-patterns.md`（52,000+本真实网文，9种开头模式、12个题材公式、12种写作技巧）
+> **深度数据参考**：`../story-short-write/references/genre-writing-formulas.md`（12大题材写作公式，含玄幻仙侠/年代重生/宫闱宅斗/现代悬疑等新增题材）
+> **市场数据参考**：`../story-short-scan/references/real-market-data.md`（七猫20个子类精确分布、跨平台写作差异对照表、爆款公式速查表）
 
 > 📚 深度参考：知识库/Skill知识包/short-analyze_短篇拆文方法论.md
 
