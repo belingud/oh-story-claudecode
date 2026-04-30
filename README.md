@@ -75,6 +75,7 @@ npx skills add worldwonderer/oh-story-claudecode -y
 | `story-short-analyze` | `/story-short-analyze` | 短篇拆文 · 叙事结构、情绪曲线、钩子拆解 |
 | `story-short-scan` | `/story-short-scan` | 短篇扫榜 · 知乎盐言/番茄短篇风口数据 |
 | `story-deslop` | `/story-deslop` `/去AI味` | 去AI味 · 检测并清除 AI 写作痕迹 |
+| `story-cover` | `/story-cover` `/封面` | 封面生成 · 书名题材分析 + GPT-Image-2 出图 |
 | `browser-cdp` | `/browser-cdp` | 浏览器操控 · CDP 协议复用登录态抓取数据 |
 
 自然语言同样触发：「帮我开书」→ `story-long-write`，「这篇太 AI 了」→ `story-deslop`。
@@ -135,6 +136,7 @@ npx skills add worldwonderer/oh-story-claudecode -y
 | 拆文实例 | 完整案例拆解 · 模板化输出 | short-analyze |
 | 读者画像 | 9 维画像 · 目标读者分析 | long-scan |
 | 市场数据 | 题材趋势 · 平台特性 · 采集格式 · 投稿指南 | long-scan / short-scan |
+| 封面风格 | 10 大题材视觉风格 · 色彩构图 · 提示词模板 | story-cover |
 
 ## 适用平台
 
